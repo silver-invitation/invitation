@@ -1,7 +1,7 @@
 var guests = {
     1: "Carlyle, Lorraine, Mignonne & Shania",
     2: "Sherril, Vincy & Chantelle",
-    3: "Eden"
+    214: "Eden"
 }
 
 
