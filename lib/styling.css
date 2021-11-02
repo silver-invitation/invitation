@@ -1,0 +1,45 @@
+body {
+    background-color: #252522;
+}
+
+a {
+    color: white;
+    transition: 500;
+}
+
+a:hover {
+    color: rgb(255, 214, 167);
+    transition: 500;
+}
+
+.parisienne {
+    font-family: "Parisienne";
+}
+
+.allura {
+    font-family: "Allura";
+}
+
+.text-38 {
+    font-size: 38px;
+}
+.text-24 {
+    font-size: 24px;
+}
+.text-30 {
+    font-size: 30px;
+}
+
+.flower {
+    height: 300px;
+    width: auto;
+}
+
+
+/* Centered text */
+.wreath-centered {
+    position: absolute;
+    left: 50%;
+    top: 145%;
+    transform: translate(-50%, -50%);
+  }
