@@ -3,5 +3,10 @@ var guests = {
 }
 
 function getGuest(i) {
-    document.getElementById("to").innerHTML = "To, <br>" + guests[i]
+    
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
+    console.log(id); // "sai"
+
+    document.getElementById("to").innerHTML = "To, <br>" + guests[id]
 }
