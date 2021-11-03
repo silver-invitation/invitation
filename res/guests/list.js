@@ -1,6 +1,6 @@
 var guests = {
-    1: "Carlyle, Lorraine, Mignonne & Shania",
-    2: "Sherril, Vincy & Chantelle"
+    "1": "Carlyle, Lorraine, Mignonne & Shania",
+    "A1": "Aldrin & Ella"
 }
 
 var to = document.getElementById("to")
