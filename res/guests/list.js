@@ -1,5 +1,5 @@
 var guests = {
-    "N01":  "Carlyle, Lorraine, Mignonne & Shania",
+    "1":  "Carlyle, Lorraine, Mignonne & Shania",
     "N02":  "Sherril, Vincy & Chantelle",
     "N03":  "Conrad, Marissa, Due-el, Wren & Gary",
     "N04":  "Rainer, Ruwanthi, Hannah & Gabriel",
@@ -38,7 +38,7 @@ var guests = {
     "N37":	"Savio & Savita",
     "N38":	"Johnson & Simone",
 
-    "A01":  "Aldrin & Ella",
+    "A1":  "Aldrin & Ella",
     "A02":  "Karen",
 
     "S01":  "Rolanda",
