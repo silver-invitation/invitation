@@ -32,7 +32,7 @@ var guests = {
     "N31":	"Lara & Earl",
     "N32":	"Lanfrence & Averil",
     "N33":	"Suzy & Amanda",
-    "N34":	"Joseph, Gladys, Fr. Clifton & Clinto",,
+    "N34":	"Joseph, Gladys, Fr. Clifton & Clinto",
     "N35":	"Ralph & Caroline",
     "N36":	"Trevor & Yolanda",
     "N37":	"Savio & Savita",
