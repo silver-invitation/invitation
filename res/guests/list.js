@@ -3,13 +3,12 @@ var guests = {
     2: "Sherril, Vincy & Chantelle"
 }
 
+var to = document.getElementById("to")
+var params = new URLSearchParams(window.location.search);
 
-
-function getGuest(i) {
-    const params = new URLSearchParams(window.location.search);
-    const id = params.get("id");
-    var x = guests[id]
+function getGuest() {
+    var x = guests[params.get("id")]
     if (x) {
-        document.getElementById("to").innerHTML = "Dear " + x + ","
+        to.innerHTML = "Dear " + x + ","
     }
 }
