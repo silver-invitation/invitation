@@ -14,12 +14,6 @@ a:hover {
     transition: 500;
 }
 
-video {
-    height: 600px;
-    width: auto;
-}
-
-
 video[poster]{
     height: 200px;
     width: auto;
