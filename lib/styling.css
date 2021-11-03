@@ -14,6 +14,17 @@ a:hover {
     transition: 500;
 }
 
+
+video[poster]{
+    height: 600px;
+    width: auto;
+}
+
+video {
+    height: 600px;
+    width: auto;
+}
+
 .parisienne {
     font-family: "Parisienne";
 }
