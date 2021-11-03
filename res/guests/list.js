@@ -10,6 +10,6 @@ function getGuest(i) {
     const id = params.get("id");
     var x = guests[id]
     if (x) {
-        document.getElementById("to").innerHTML = "Dear " + x
+        document.getElementById("to").innerHTML = "Dear " + x + ","
     }
 }
