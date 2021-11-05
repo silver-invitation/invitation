@@ -49,6 +49,12 @@ var guests = {
     "K02":  "Trevin",
     "K03":  "Jasmine",
     "K04":  "Eden",
+
+    "P01":  "Doris D'silva",
+    "P02":  "Michael & Alvina",
+    "P03":  "A. Melba",
+    "P04":  "Mr. & Mrs. John Rodrigues",
+    "P05":  "Bertilda & Theo"
 }
 
 var to = document.getElementById("to")
