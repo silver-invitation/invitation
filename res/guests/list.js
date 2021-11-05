@@ -54,7 +54,9 @@ var guests = {
     "P02":  "Michael & Alvina",
     "P03":  "A. Melba",
     "P04":  "Mr. & Mrs. John Rodrigues",
-    "P05":  "Bertilda & Theo"
+    "P05":  "Bertilda & Theo",
+    "P06":  "Alan & Judy",
+    "P07":  "Irene"
 }
 
 var to = document.getElementById("to")
