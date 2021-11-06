@@ -49,7 +49,8 @@ var guests = {
     "K02":  "Trevin",
     "K03":  "Jasmine",
     "K04":  "Eden",
-
+    "K05":  "Heeral",
+    
     "P01":  "Doris D'silva",
     "P02":  "Michael & Alvina",
     "P03":  "A. Melba",
