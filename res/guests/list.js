@@ -37,9 +37,15 @@ var guests = {
     "N36":	"Trevor & Yolanda",
     "N37":	"Savio & Savita",
     "N38":	"Johnson & Simone",
+    "N39":  "Justin",
 
-    "A1":  "Aldrin & Ella",
+    "A1":   "Aldrin & Ella",
     "A02":  "Karen",
+    "A03":  "A. Thelma",
+    "A04":  "Deepak, Marianne & fly",
+    "A05":  "U. Trevor, A. Maureen, Michelle & Dimple",
+    "A06":  "U. Shanu, A. Glenda & Garry",
+    "A07":  "Barry & fly",
 
     "S01":  "Rolanda",
     "S02":  "Pearl",
