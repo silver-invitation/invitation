@@ -64,7 +64,7 @@ var guests = {
     "P05":  "Bertilda & Theo",
     "P06":  "Alan & Judy",
     "P07":  "Irene",
-    "P08":  "Fr. Michael & All the Priests of our Parish"
+    "P08":  "Fr. Michael and all the Priests of our Parish"
 }
 
 var to = document.getElementById("to")
